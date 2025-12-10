@@ -1,4 +1,4 @@
-🩺 **Diabetes Prediction Using Machine Learning**
+🩺 ***Diabetes Prediction Using Machine Learning***
 
 A complete end-to-end machine learning project that predicts whether a person is diabetic based on medical diagnostic measurements.
 This project demonstrates the full ML workflow — from data preprocessing to real-time prediction — implemented using Python and scikit-learn.
