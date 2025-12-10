@@ -1,9 +1,9 @@
-🩺 Diabetes Prediction Using Machine Learning
+🩺 **Diabetes Prediction Using Machine Learning**
 
 A complete end-to-end machine learning project that predicts whether a person is diabetic based on medical diagnostic measurements.
 This project demonstrates the full ML workflow — from data preprocessing to real-time prediction — implemented using Python and scikit-learn.
 
-🚀 Project Overview
+🚀 **Project Overview**
 
 This project uses the PIMA Diabetes Dataset to build a classification model that predicts the likelihood of diabetes using health parameters such as glucose level, BMI, pregnancies, insulin, and more.
 
@@ -15,7 +15,7 @@ A real-time predictive system for user input
 Fully reproducible code in Jupyter/Google Colab
 This project highlights practical ML skills essential for real-world applications and technical interviews.
 
-🧠 Key Features
+🧠 **Key Features**
 
 ✔ End-to-end ML workflow
 
@@ -29,7 +29,7 @@ This project highlights practical ML skills essential for real-world application
 
 ✔ Beginner-friendly and interview-friendly structure
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Python
 
@@ -39,7 +39,7 @@ Matplotlib / Seaborn
 
 Jupyter Notebook / Google Colab
 
-📊 Model Workflow
+📊 **Model Workflow**
 
 Load Dataset (PIMA Diabetes dataset)
 
@@ -51,7 +51,7 @@ Split data into train & test sets
 
 Apply StandardScaler to numeric features
 
-🔍 Sample Prediction Code 
+🔍 **Sample Prediction Code** 
 
 input_data = (5,166,72,19,175.25,8.0,587,51)
 
@@ -66,7 +66,7 @@ prediction = classifier.predict(std_data)
 
 print("Diabetic" if prediction[0] == 1 else "Not Diabetic")
 
-📈 Results
+📈 **Results**
 
 Achieved strong and stable classification performance
 
@@ -74,7 +74,7 @@ Real-time prediction works with any user input
 
 Consistent preprocessing ensures reliable output
 
-🧪 What This Project Demonstrates
+🧪 **What This Project Demonstrates :**
 
 This project showcases my ability to:
 
@@ -90,7 +90,7 @@ Work with healthcare-related datasets
 
 Present ML results in a clear and structured way
 
-📚 Future Improvements
+📚 **Future Improvements**
 
 Add a GUI using Tkinter/Streamlit
 
@@ -101,6 +101,9 @@ Try XGBoost / Hyperparameter tuning
 Improve accuracy with advanced preprocessing
 
 Add confusion matrix visualization
+
 Train multiple ML models
+
 Evaluate using accuracy & F1-score
+
 Build a predictive system for user inputs
