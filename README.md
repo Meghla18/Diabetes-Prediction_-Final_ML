@@ -8,12 +8,17 @@ This project demonstrates the full ML workflow — from data preprocessing to re
 This project uses the PIMA Diabetes Dataset to build a classification model that predicts the likelihood of diabetes using health parameters such as glucose level, BMI, pregnancies, insulin, and more.
 
 The model includes:
+
 Clean data preprocessing pipeline
+
 Feature scaling using StandardScaler
+
 Training and evaluation of multiple ML algorithms
+
 A real-time predictive system for user input
+
 Fully reproducible code in Jupyter/Google Colab
-This project highlights practical ML skills essential for real-world applications and technical interviews.
+
 
 🧠 **Key Features**
 
